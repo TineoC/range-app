@@ -5,11 +5,10 @@
 	"type": "module",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js",
-		"build": "nexe"
+		"start": "node index.js"
 	},
 	"dependencies": {
 		"prompt-sync": "^4.2.0",
-		"range-kata-class": "^1.0.6"
+		"range-kata-class": "^1.0.7"
 	}
 }
